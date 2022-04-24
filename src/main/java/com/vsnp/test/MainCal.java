@@ -9,6 +9,6 @@ public class MainCal {
 
 	@GetMapping("/get")
 	public ResponseEntity<?> getCal(){
-		return ResponseEntity.ok("Nonssssssssssssfjd");
+		return ResponseEntity.ok("Test 1");
 	}
 }
